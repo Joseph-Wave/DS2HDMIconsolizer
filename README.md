@@ -16,4 +16,4 @@ The future plan was to pass the project to a Tang Primer 25K, a cheaper FPGA, or
 
 ![](IMG_1583.gif)
 
-![](IMG_1592.png)
+![](IMG_1592.png){width=300}
