@@ -1,6 +1,6 @@
 ## DS to HDMI converter
 
-Here is an archive project of mine. It takes the raw video signals of the ds and scale up, pixel to pixel to DVI video in 1080p, 720p, etc. using an artix 7 FPGA.
+Here is an archive project of mine. It takes the raw video signals of the ds and scale up, pixel to pixel to DVI video in 1080p, 720p, etc. using an artix 7 FPGA, and play both DS and GBA games.
 
 Demotration can be seen at https://youtube.com/shorts/DusmrjSz5Js
 
@@ -18,3 +18,7 @@ The future plan was to pass the project to a Tang Primer 25K, a cheaper FPGA, or
 <img src="IMG_1592.png" width="300">
 
 The show scale correspont to a x5.
+
+Here is a drawing of the expectated case using a DSi XL screen and a DS Fat motherboard (this model allow easier wiring as both screen data is recived for both displays, only with differing in the clock signal phase)
+
+<img src="dsCase.png" width="300">
