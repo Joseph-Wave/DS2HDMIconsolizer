@@ -5,7 +5,7 @@ Here is an archive project of mine. It takes the raw video signals of the ds and
 Demotration can be seen at https://youtube.com/shorts/DusmrjSz5Js
 
 Also share the PCB designs and pinout probing done in the ds family systems (LS030.xlsx), for which the DSi XL is electrically compatible and a second PCB and enclosure were desinged. 
-The TFP410 TMDS transmitter is not required in most cases.
+The TFP410 TMDS transmitter and logic buffers are not required in most cases.
 
 Some test roms are included. These are particulary coded to indentify the timing of the 5 bit RGB signals without expensive logic analizer, a cheap off-brand usb 8 Channels is enough.
 
