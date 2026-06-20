@@ -1,6 +1,6 @@
 ## DS to HDMI converter
 
-Here is an archive project of mine. It takes the raw video signals of the ds and conver them pixel to pixel to DVI video in 1080p, 720p, etc. using an artix 7 FPGA.
+Here is an archive project of mine. It takes the raw video signals of the ds and scale up, pixel to pixel to DVI video in 1080p, 720p, etc. using an artix 7 FPGA.
 
 Demotration can be seen at https://youtube.com/shorts/DusmrjSz5Js
 
@@ -13,7 +13,8 @@ Some test roms are included. These are particulary coded to indentify the timing
 
 The future plan was to pass the project to a Tang Primer 25K, a cheaper FPGA, or a dedicaded TFP410 Serializer. But never get the time and money to realize them. I share this in case someone had the same vision...
 
-
 ![](IMG_1583.gif)
 
 <img src="IMG_1592.png" width="300">
+
+The show scale correspont to a x5.
