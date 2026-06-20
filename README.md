@@ -9,7 +9,7 @@ The TFP410 TMDS transmitter is not required in most cases.
 
 Some test roms are included. These are particulary coded to indentify the timing of the 5 bit RGB signals without expensive logic analizer, a cheap off-brand usb 8 Channels is enough.
 
-![](tets-RGB.png)
+![test_roms](tets-RGB.png)
 
 The future plan was to pass the project to a Tang Primer 25K, a cheaper FPGA, or a dedicaded TFP410 Serializer. But never get the time and money to realize them. I share this in case someone had the same vision...
 
